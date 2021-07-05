@@ -28,6 +28,7 @@ My current focus is making Vite.js more approachable for the Ruby community with
 #### Vite.js with Ruby
 
 - [vite_ruby](https://github.com/ElMassimo/vite_ruby): ⚡️♦️ Vite.js in Ruby - bringing joy to your JavaScript experience
+- [jekyll-vite](https://github.com/ElMassimo/jekyll-vite): ⚡️🩸 Use Vite.js in Jekyll as your assets pipeline
 - [vite-plugin-erb](https://github.com/ElMassimo/vite-plugin-erb): Use ERB files in Vite.js projects with a Ruby backend
 - [vite-plugin-stimulus-hmr](https://github.com/ElMassimo/vite-plugin-stimulus-hmr): HMR for Stimulus controllers in Vite.js
 - [stimulus-vite-helpers](https://github.com/ElMassimo/stimulus-vite-helpers): Helpers to easily load all your Stimulus - controllers when using Vite.js
