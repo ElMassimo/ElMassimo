@@ -65,6 +65,7 @@ My current focus is making Vite.js more approachable for the Ruby community with
 
 Here are some [articles I've written][blog]:
 
+- [Vue Components as Custom Elements](https://maximomussini.com/posts/vue-custom-elements/)
 - [Debugging Libraries: Ruby Edition](https://maximomussini.com/posts/debugging-ruby-libraries/)
 - [Debugging Libraries: Node.js Edition](https://maximomussini.com/posts/debugging-javascript-libraries/)
 - [Documentation is a Great Investment](https://maximomussini.com/posts/documentation-is-a-great-investment/)
