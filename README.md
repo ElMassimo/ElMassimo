@@ -17,7 +17,7 @@
 
 ### Projects 🛠
 
-My current focus is exploring development experience, and how it can help us achieve increased productivity.
+My current focus is development experience, and how it can help us achieve increased productivity.
 
 Also making Vite.js more approachable for the Ruby community with [Vite Ruby].
 
