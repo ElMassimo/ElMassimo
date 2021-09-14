@@ -17,10 +17,12 @@
 
 ### Projects 🛠
 
-My current focus is making Vite.js more approachable for the Ruby community with [Vite Ruby].
+My current focus is exploring development experience, and how it can help us achieve increased productivity.
+
+Also making Vite.js more approachable for the Ruby community with [Vite Ruby].
 
 #### Vite.js
-
+- [îles](https://github.com/ElMassimo/iles): 🏝 Islands of interactivity with Vue in Vite.js (alpha)
 - [vite-plugin-environment](https://github.com/ElMassimo/vite-plugin-environment): Easily expose environment variables in Vite.js
 - [vite-plugin-full-reload](https://github.com/ElMassimo/vite-plugin-full-reload): ♻️ Automatically reload the page when files are modified
 - [vite-plugin-bugsnag](https://github.com/ElMassimo/vite-plugin-bugsnag): Report builds and upload source maps to Bugsnag
