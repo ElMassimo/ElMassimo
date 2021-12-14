@@ -20,7 +20,7 @@
 My current focus is development experience, and how it can help us achieve increased productivity.
 
 #### Vite.js
-- [îles](https://github.com/ElMassimo/iles): 🏝 Islands of interactivity with Vue in Vite.js (beta)
+- [îles](https://github.com/ElMassimo/iles): 🏝 The joyful site generator! Islands of interactivity with Vue in Vite.js
 - [vite-plugin-environment](https://github.com/ElMassimo/vite-plugin-environment): Easily expose environment variables in Vite.js
 - [vite-plugin-full-reload](https://github.com/ElMassimo/vite-plugin-full-reload): ♻️ Automatically reload the page when files are modified
 - [vite-plugin-bugsnag](https://github.com/ElMassimo/vite-plugin-bugsnag): Report builds and upload source maps to Bugsnag
