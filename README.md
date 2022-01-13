@@ -61,6 +61,10 @@ My current focus is development experience, and how it can help us achieve incre
 - [jumpstart-vite](https://github.com/ElMassimo/jumpstart-vite): Jumpstart a new Rails app with Vite.js + Turbo + Stimulus, and more
 - [vite_rails_docker_example](https://github.com/ElMassimo/vite_rails_docker_example): An example of how to run Vite Rails in Docker
 
+### Podcasts 📣
+
+- [Islands Architecture in Vue](https://viewsonvue.com/islands-architecture-in-vue-with-m-ximo-mussini-vue-170)
+- [Using Vite.js with Ruby Apps](https://rubyrogues.com/how-vite-js-changing-game-maximo-mussini-ruby-528)
 
 ### Writing ✍️
 
