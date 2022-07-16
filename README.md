@@ -42,6 +42,7 @@ My current focus is development experience, and how it can help us achieve incre
 
 - [js_from_routes](https://github.com/ElMassimo/js_from_routes): 🛣️ Generate path helpers and API methods from your Rails routes
 - [oj_serializers](https://github.com/ElMassimo/oj_serializers): ⚡️ Faster JSON serialization for Ruby on Rails. Easily migrate away from Active Model Serializers
+- [types_from_serializers](https://github.com/ElMassimo/types_from_serializers): ✅ Generate TypeScript interfaces from your JSON serializers
 - [presenter_rails](https://github.com/ElMassimo/presenter_rails): 🔭 Expose your view models in a convenient way
 - [queryable](https://github.com/ElMassimo/queryable): ❔ Gives your queries a home and avoid tucking scopes inside your models
 - [resourcerer](https://github.com/ElMassimo/resourcerer): ✨ Works like magic to dry up your controllers
