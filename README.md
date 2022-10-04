@@ -64,13 +64,15 @@ My current focus is development experience, and how it can help us achieve incre
 
 ### Podcasts 📣
 
-- [Islands Architecture in Vue](https://viewsonvue.com/islands-architecture-in-vue-with-m-ximo-mussini-vue-170)
-- [Using Vite.js with Ruby Apps](https://rubyrogues.com/how-vite-js-changing-game-maximo-mussini-ruby-528)
+- [Islands Architecture in Vue](https://dev.to/viewsonvue/islands-architecture-in-vue-with-maximo-mussini-vue-170)
+- [Using Vite.js with Ruby Apps](https://dev.to/rubyrogues/how-vite-js-is-changing-the-game-with-maximo-mussini-ruby-528)
+- [TypeScript from Ruby Serializers](https://dev.to/rubyrogues/how-to-get-your-rails-models-and-routes-into-your-front-end-framework-ruby-559)
 
 ### Writing ✍️
 
 Here are some [articles I've written][blog]:
 
+- [A Rubyist's Guide to Vite.js](https://maximomussini.com/posts/a-rubyist-guide-to-vite-js)
 - [Vue Components as Custom Elements](https://maximomussini.com/posts/vue-custom-elements/)
 - [Debugging Libraries: Ruby Edition](https://maximomussini.com/posts/debugging-ruby-libraries/)
 - [Debugging Libraries: Node.js Edition](https://maximomussini.com/posts/debugging-javascript-libraries/)
