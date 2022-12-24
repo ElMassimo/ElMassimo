@@ -66,7 +66,7 @@ My current focus is development experience, and how it can help us achieve incre
 
 - [Islands Architecture in Vue](https://dev.to/viewsonvue/islands-architecture-in-vue-with-maximo-mussini-vue-170)
 - [Using Vite.js with Ruby Apps](https://dev.to/rubyrogues/how-vite-js-is-changing-the-game-with-maximo-mussini-ruby-528)
-- [TypeScript from Ruby Serializers](https://dev.to/rubyrogues/how-to-get-your-rails-models-and-routes-into-your-front-end-framework-ruby-559)
+- [TypeScript from Ruby Serializers](https://topenddevs.com/podcasts/ruby-rogues/episodes/how-to-get-your-rails-models-and-routes-into-your-front-end-framework-ruby-559)
 
 ### Writing ✍️
 
